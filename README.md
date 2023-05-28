@@ -10,7 +10,7 @@ Este é um script Python simples para baixar vídeos do Twitter usando a API do 
 ## Configuração
 
 1. Registre-se como desenvolvedor no Twitter e crie um novo aplicativo para obter as chaves de API necessárias.
-2. Abra o arquivo `baixar_video_twitter.py` em um editor de texto.
+2. Abra o arquivo `baixar_video_twitter.py` no visual studio code.
 3. Substitua as variáveis `consumer_key`, `consumer_secret`, `access_token`, `access_token_secret` com suas próprias chaves de API.
 4. Salve o arquivo.
 
